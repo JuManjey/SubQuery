@@ -1,2 +1,2 @@
 # SubQuery
-Install SubQuery. THX to Node.Guru
+Install SubQuery. THX to Nodes.Guru
